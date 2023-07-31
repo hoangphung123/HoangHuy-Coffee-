@@ -1,0 +1,24 @@
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.Cache
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.AssemblyReference.cache
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormRegister.resources

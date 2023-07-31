@@ -1,0 +1,67 @@
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\Quanlychitieu.csproj.AssemblyReference.cache
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\Quanlychitieu.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\Quanlychitieu.csproj.GenerateResource.cache
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\Quanlychitieu.csproj.CoreCompileInputs.cache
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.NotificationForm.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.CreatePaymentForm.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Budget.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.CustomerForm.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormCreateBudget.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormRegisters.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormLogin.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Main.resources
+C:\Users\hoanghuy\Desktop\Báo cáo giữa kỳ-Phùng Huy Hoàng-20110370\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Budgets.resources
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\Quanlychitieu.csproj.AssemblyReference.cache
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\Quanlychitieu.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.CreatePaymentForm.resources
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.CustomerForm.resources
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Main.resources
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormCreateBudget.resources
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormRegisters.resources
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormLogin.resources
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.NotificationForm.resources
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Budgets.resources
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\Quanlychitieu.csproj.GenerateResource.cache
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\Quanlychitieu.csproj.CoreCompileInputs.cache
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormPayment.resources
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormAddItems.resources
+C:\Users\hoanghuy\Desktop\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormStatic.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\Quanlychitieu.csproj.AssemblyReference.cache
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\Quanlychitieu.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.CreatePaymentForm.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.CustomerForm.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormAddItems.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormPayment.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormStatic.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Main.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormCreateBudget.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormRegisters.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FormLogin.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.NotificationForm.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Budgets.resources
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\Quanlychitieu.csproj.GenerateResource.cache
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\Quanlychitieu.csproj.CoreCompileInputs.cache
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\hoanghuy\Desktop\app\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
